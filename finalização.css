@@ -1,0 +1,33 @@
+body, html { 
+margin:auto;
+border:solid 100px rgb(123, 24, 123); 
+background-image: url(fundo.jpg);		  
+}
+
+#destaque{ 
+    background-color: rgb(203, 152, 215);  
+    background-size: cover;
+    text-align: center;
+    color: blueviolet;
+}
+
+{
+    width: 15%;
+    border: 10px solid rgb(56, 4, 56);
+    float: left;
+    text-align: center;
+    padding: 2%;
+}
+
+#produtos{ 
+    border: solid 5px double rgb(162, 99, 222);
+    text-align: justify;
+    clear: both;
+}
+
+footer{ 
+    clear: both;
+    text-align: center;
+    width: 70%; 
+}   
+    
